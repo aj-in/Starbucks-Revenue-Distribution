@@ -1,4 +1,4 @@
-# Starbucks-Revenue-Distribution
+# Starbucks Revenue Distribution Analysis in Excel
 <br>
 <h3> A dashboard in Microsoft Excel using pivot tables, XLOOKUPs (an advanced VLOOKUP), index matching, and other advanced Excel functions.</h3>
 
@@ -13,6 +13,8 @@ https://github.com/user-attachments/assets/81d165c5-86c0-44ba-9b6b-8aea2df0c42d
 
 
 <ul>
+  <li> Extensively cleaned data using Textsplit(), Substitute(), Iferror() and other functions.</li>
+  <br>
   <li>Index matching for optimized data population, reduced the need of manually writing formulas at each column. </li>
   <br>
 
