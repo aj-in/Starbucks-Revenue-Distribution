@@ -8,15 +8,34 @@ https://github.com/user-attachments/assets/81d165c5-86c0-44ba-9b6b-8aea2df0c42d
 
 <br>
 
-<h3> Methodologies </h3>
+<h3> Highlights </h3>
 
 
-<h4> Formulas used: </h4>
 
 <ul>
-  <li>Index matching for optimized data population </li>
+  <li>Index matching for optimized data population, reducing the need of manually writing formulas at each column. </li>
+  <br>
 
   ![image](https://github.com/user-attachments/assets/db564641-ee19-4859-a5b4-cb4899e08a83)
+
+
+  <li> Enabled cross-sheet analysis through customer ID matching via XLOOKUPs, resulting in a ~30% reduction in lookup processing time over VLOOKUP implementations. </li>
+  <br>
+  
+  ![image](https://github.com/user-attachments/assets/c919f19d-e389-4d36-85c3-a8bd0d754366)
+
+
+ 
+
+
+  <li>  Performed data validation by integrating conditional formatting with lookups, to effectively deal with edge cases and missing values.
+  <br>
+  
+   ![image](https://github.com/user-attachments/assets/5d0336cb-256c-4760-93fe-f83b2e7c7b4d)</li>
+
+  <li>  </li>
+
+  <li>  </li>
 
 </ul>
 
