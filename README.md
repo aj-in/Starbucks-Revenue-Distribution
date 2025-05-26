@@ -1,4 +1,4 @@
-# Starbucks Revenue Distribution Analysis in Excel
+# Starbucks Revenue Distribution Analysis using Excel
 <br>
 <h3> A dashboard in Microsoft Excel using pivot tables, XLOOKUPs (an advanced VLOOKUP), index matching, and other advanced Excel functions.</h3>
 
