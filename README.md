@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/81d165c5-86c0-44ba-9b6b-8aea2df0c42d
   ![image](https://github.com/user-attachments/assets/db564641-ee19-4859-a5b4-cb4899e08a83)
 
 
-  <li> Enabled cross-sheet analysis through customer ID matching via XLOOKUPs, resulting in a **~30% reduction** in lookup processing time over VLOOKUP implementations. </li>
+  <li> Enabled cross-sheet analysis through customer ID matching via XLOOKUPs, resulting in a <b>~10% reduction</b> in lookup processing time over VLOOKUP implementations. </li>
   <br>
   
   ![image](https://github.com/user-attachments/assets/c919f19d-e389-4d36-85c3-a8bd0d754366)
@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/81d165c5-86c0-44ba-9b6b-8aea2df0c42d
   
    ![image](https://github.com/user-attachments/assets/5d0336cb-256c-4760-93fe-f83b2e7c7b4d)
 
-  <li> Automated data refreshing and reduced manual effort by structuring datasets as Excel Tables. This approach ensured formula ranges and pivot tables auto-updated instantly, saving considerable time and reducing errors previously caused by static sheet references. | Grouped data points by columns for targeted analysis </li>
+  <li> Structured datasets as Excel Tables this ensured formula ranges and pivot tables auto-updated instantly, saving considerable time and reducing errors previously caused by static sheet references. | Grouped data points by columns for targeted analysis </li>
 
  <br>
 
