@@ -13,13 +13,18 @@ https://github.com/user-attachments/assets/81d165c5-86c0-44ba-9b6b-8aea2df0c42d
  <h3>Strategic recommendations:</h3> 
  <br>
  <ol>
- <li>Sales in the United States dropped sharply in August 2022, going from $860+ in July to just $196 in August. Re-engage the U.S. market in Summer Flash sales and loyalty boosts for U.S. customers, Promote feedback forms with free coupons asking about reasons for drop-off </li>
+
+   <li> Robusta has 15% lower average sales than Arabica and Excelsa. Study and replicate formulation strategies (roast levels, flavor additives) used in Arabica and Excelsa for Robusta. Use blind tastings to reduce perception bias against Robusta.  </li>
+   
  <br>
  <li> Capitalize on Sep-Dec Tourist Spike Launch seasonal bundles: "Tourist Favorites", "Winter Warmer Packs". Collaborate with travel agencies, airports, and hotels (major sites of Tourist activities/presence) for bundle promotions.</li>
  <br>
+  <li>Sales in the United States dropped sharply in August 2022, going from $860+ in July to just $196 in August. Re-engage the U.S. market in Summer Flash sales and loyalty boosts for U.S. customers, Promote feedback forms with free coupons asking about reasons for drop-off </li>
+  <br>
+  
  <li> Among the top 10 customers by revenue, 7 do not have loyalty cards, Introduce a VIP Loyalty Tier for high spenders encouraging /making it easier for customers to spend more.   </li>
  <br>
- <li> Robusta has 15% lower average sales than Arabica and Excelsa. Study and replicate formulation strategies (roast levels, flavor additives) used in Arabica and Excelsa for Robusta. Use blind tastings to reduce perception bias against Robusta.  </li>
+
  </ol>
 
 
@@ -54,7 +59,7 @@ https://github.com/user-attachments/assets/81d165c5-86c0-44ba-9b6b-8aea2df0c42d
   
    ![image](https://github.com/user-attachments/assets/5d0336cb-256c-4760-93fe-f83b2e7c7b4d)
 
-  <li> Structured datasets as Excel Tables this ensured formula ranges and pivot tables auto-updated instantly, saving considerable time and <b><ins>reducing errors previously caused by static sheet references. </ins></b> | Grouped data points by columns for targeted analysis </li>
+  <li> Structured datasets as Excel Tables this ensured formula ranges and pivot tables auto-updated instantly, saving considerable time and <b><ins>reducing errors previously caused by static sheet references. </ins></b> | Grouped data points by specific features/columns for targeted analysis </li>
 
  <br>
 
