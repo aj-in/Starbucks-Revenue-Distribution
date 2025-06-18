@@ -5,7 +5,7 @@
   <li>
 Identified product opportunities, provided recommendations for targeted product portfolio optimization </li>
   <li>  
- Fulfilled the requirement of a centralized dashboard in Microsoft Excel using pivot tables, XLOOKUPs (an advanced VLOOKUP), index matching, and other advanced Excel functions.</h3>
+ Fulfilled the requirement of a centralized dashboard in Microsoft Excel, used pivot tables, XLOOKUPs (an advanced VLOOKUP), index matching, and other advanced Excel functions.</h3>
 </li>
 
 https://github.com/user-attachments/assets/81d165c5-86c0-44ba-9b6b-8aea2df0c42d
