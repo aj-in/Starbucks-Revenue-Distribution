@@ -1,7 +1,12 @@
 # Starbucks Revenue Distribution Analysis using Excel
 <br>
-<h3>  A Detailed Analysis of Revenue at Starbucks. Answering the business question of which products to focus on and fulggining the requrement of a centralized dashboard in Microsoft Excel using pivot tables, XLOOKUPs (an advanced VLOOKUP), index matching, and other advanced Excel functions.</h3>
-
+<h3>  A Detailed Analysis of Revenue at Starbucks. 
+ <ol>
+  <li>
+Identified product opportunities, provided recommendations for targeted product portfolio optimization </li>
+  <li>  
+ Fulfilled the requirement of a centralized dashboard in Microsoft Excel using pivot tables, XLOOKUPs (an advanced VLOOKUP), index matching, and other advanced Excel functions.</h3>
+</li>
 
 https://github.com/user-attachments/assets/81d165c5-86c0-44ba-9b6b-8aea2df0c42d
 
@@ -14,7 +19,7 @@ https://github.com/user-attachments/assets/81d165c5-86c0-44ba-9b6b-8aea2df0c42d
  <br>
  <ol>
 
-   <li> Robusta has 15% lower average sales than Arabica and Excelsa. Study and replicate formulation strategies (roast levels, flavor additives) used in Arabica and Excelsa for Robusta. Use blind tastings to reduce perception bias against Robusta.  </li>
+   <li> Coffee Type Robusta has 15% lower average sales than Coffee Types Arabica and Excelsa. Study and replicate formulation strategies (roast levels, flavor additives) used in Arabica and Excelsa for Robusta. Use blind tastings to reduce perception bias against Robusta.  </li>
    
  <br>
  <li> Capitalize on Sep-Dec Tourist Spike Launch seasonal bundles: "Tourist Favorites", "Winter Warmer Packs". Collaborate with travel agencies, airports, and hotels (major sites of Tourist activities/presence) for bundle promotions.</li>
